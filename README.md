@@ -10,11 +10,11 @@
 
 AtliQ Hardware is one of the fastest-growing electronics companies, manufacturing and selling PCs, mice, printers, and other electronic goods globally. Products reach consumers through three channels:
 
-- **Retailers** — Brick & mortar stores (Chroma, Best Buy) and e-commerce platforms (Amazon, Flipkart)
-- **Direct** — AtliQ's own exclusive stores
-- **Distributors** — Regional distribution partners handling logistics in regulated markets like China and South Korea
+- **Retailers**: Brick & mortar stores (Chroma, Best Buy) and e-commerce platforms (Amazon, Flipkart)
+- **Direct**: AtliQ's own exclusive stores
+- **Distributors**: Regional distribution partners handling logistics in regulated markets like China and South Korea
 
-After suffering significant losses from a failed Latin America expansion — driven by decisions based on surveys and gut instinct rather than data — AtliQ's leadership made data analytics adoption their top strategic priority. This project was born from that initiative.
+After suffering significant losses from a failed Latin America expansion driven by decisions based on surveys and gut instinct rather than data AtliQ's leadership made data analytics adoption their top strategic priority. This project was born from that initiative.
 
 ## Problem Statement
 
@@ -29,7 +29,7 @@ Meanwhile, competitors like Dell were leveraging sophisticated analytics teams t
 
 ## Solution
 
-A comprehensive Power BI dashboard suite — **Business Insights 360** — delivering five interconnected views that enable data-driven decision-making from the CEO level down through every department.
+A comprehensive Power BI dashboard suite **Business Insights 360** delivering five interconnected views that enable data-driven decision-making from the CEO level down through every department.
 
 ## Dashboard Views
 
@@ -83,7 +83,7 @@ A comprehensive Power BI dashboard suite — **Business Insights 360** — deliv
 
 - Identified underperforming regions and customer segments contributing to margin erosion
 - Surfaced forecast accuracy gaps driving excess inventory costs
-- Enabled leadership to independently assess business health via daily dashboard reviews — replacing manual calls to regional heads
+- Enabled leadership to independently assess business health via daily dashboard reviews replacing manual calls to regional heads
 - Provided negotiation leverage for key account discussions with data-backed profitability analysis
 
 ## Project Approach
@@ -103,9 +103,6 @@ A comprehensive Power BI dashboard suite — **Business Insights 360** — deliv
 | Project Management | Agile / Scrum |
 
 ## Screenshots
-
-> *Add screenshots of each dashboard view here*
-
 
 ![Finance View](screenshots/finance_view.png)
 ![Sales View](screenshots/sales_view.png)
